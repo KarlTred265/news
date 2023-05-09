@@ -1,1 +1,1 @@
-web: gunicorn contacte.wsgi
+web: gunicorn news.wsgi
